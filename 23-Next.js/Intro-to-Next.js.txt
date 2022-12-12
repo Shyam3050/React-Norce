@@ -1,0 +1,10 @@
+* you still write React code, you still build React Component And use React Feature like props,
+state,context...etc.
+
+Next.js just enhance your React apps and Add more Features.
+
+like Lot of Build in Features like Routing that help solve common problem And clear guidence on how
+to use those features.
+
+There are certain problems which you will need to solve for almost all production ready React apps
+Next js solve those problems.
