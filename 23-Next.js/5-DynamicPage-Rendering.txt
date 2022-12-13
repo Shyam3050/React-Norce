@@ -1,0 +1,3 @@
+ourdomain.com/news/xyz
+in news folder create [id].js file next.js knows it is a dynamic page
+when url ourdomain.com/news/xyz render [id].js file

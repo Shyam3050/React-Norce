@@ -1,0 +1,10 @@
+url: ourdomain.com/news/gkfroundop
+
+In Next.js have useRouter hook to access the value.
+
+import {useRouter} from "next/router";
+
+const router = useRouter();
+const value = router.query.xyz;  // gkfroundop
+
+In [xyz].js;

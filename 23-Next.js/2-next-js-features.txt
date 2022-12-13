@@ -1,0 +1,9 @@
+feature-1: BuiltIn server-side rendering.
+it pre render on server,
+automatic page pre-rendering great for SEO and initial load.
+fetch data on the server and render finished pages.
+
+FEATURES:2;  File based Routing.
+
+Features3; full stack capabilites adding backend serverside code on next/react app.
+

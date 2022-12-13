@@ -1,0 +1,9 @@
+domain.com
+render index.js
+domain.com/news 
+render news.js
+or if news is a folder then
+domain.com/news
+will render inside of news folder index.js file
+
+

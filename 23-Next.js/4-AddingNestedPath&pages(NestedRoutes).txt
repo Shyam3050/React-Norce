@@ -1,0 +1,2 @@
+ourdomain.com/news
+here news folder render index.js file

@@ -1,0 +1,6 @@
+In react router we see Dynamic url update like in next.js
+
+import Link from "next/Link;
+
+<Link href= "url"> LInk</Link>
+//it update the url;
