@@ -1,0 +1,9 @@
+what is testing & why?
+understanding unit tests
+Testing React Components & building Blocks
+
+Automated test
+
+code that test your code.
+we can test individual building blocks
+we can test whole app
